@@ -11,3 +11,5 @@
 !composer.json
 !scripts
 !scripts/*
+!update-control
+!update-control/*

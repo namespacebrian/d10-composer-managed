@@ -1,0 +1,4 @@
+This file serves as a flag to prevent the dashboard from automatically displaying this update, because it modifies composer.json and will likely cause merge conflicts.
+
+If you wish to update your site to Drupal 10, you will need to apply this update manually.
+
